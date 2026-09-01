@@ -28,17 +28,17 @@ function App() {
     <section class="mb-10">
       <h2 class="text-xl font-semibold mb-3">Things I like</h2>
       <ul class="list-disc list-inside space-y-1 text-slate-700">
-        <li>Playing badminton on weekends, badly</li>
-        <li>Fixing other people's laptops for free</li>
-        <li>Any milk tea that is not too sweet</li>
+        <li>Playing the piano poorly</li>
+        <li>Creating and practicing scultping</li>
+        <li>Trying to draw again</li>
       </ul>
     </section>
 
     <section>
       <h2 class="text-xl font-semibold mb-3">Reach me</h2>
       <p class="leading-relaxed text-slate-700">
-        juan.delacruz@cit.edu
-        @juandelacruz on most things
+        jamesarthur.inosanto@cit.edu
+        @jArthur on most things
       </p>
     </section>
 
